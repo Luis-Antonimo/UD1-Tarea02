@@ -25,4 +25,4 @@ namespace ConsoleApplication5
             Console.ReadKey();
         }
     }
-}
+}//Comprobando sincronización
